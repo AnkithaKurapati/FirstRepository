@@ -1,6 +1,5 @@
 Group_A,1,Qatar,10,6,8
 Group_A,2,India,20,20,5
-Group_A,3,US,30,20,45
 Group_A,4,Oman,45,60,50
 Group_B,1,Portugal,20,30,6
 Group_B,2,Egypt,30,10,5
